@@ -7,7 +7,7 @@
 * [DEMO](#DEMO)
 
 ## DESCRIPTION
-The goal of our project is to help travelers to better plan their trips with better understanding of the flight schedule. This web application includes two part with visualizing the historical flight delay condition and prediciting the flight delay with flight information and weather forcasting.
+The goal of this project is to help travelers to better plan their trips with better understanding of the flight schedule. This web application includes two part with visualizing the historical flight delay condition and prediciting the flight delay with flight information and weather forcasting.
 
 The visualization is built with d3. The back-end is using Flask with python to serve data and read the model. The predictive model is trained with scikit-learn using RandomForest Classifier.
 
